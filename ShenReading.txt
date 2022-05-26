@@ -1,0 +1,12 @@
+Computers are still much less useful than the ability of the human eye for
+pattern matching. This ability can be used quite straightforwardly to identify structure
+in a data set when it is two or three dimensional. With data sets with more than 3
+dimensions some kind of transformation is always necessary. In this paper we review in
+depth and present and extension of one of these mechanisms: Andrews' curves. With
+the Andrews' curves we use a curve to represent each data point. A human can run
+his eye along a set of curves (representing the members of the data set) and identify
+particular regions of the curves which are optimal for identifying clusters in the data
+set. Of interest in this context, is our extension in which a moving three-dimensional
+image is created in which we can see clouds of data points moving as we move along
+the curves; in a very real sense, the data which dance together are members of the
+same cluster.
